@@ -1,3 +1,5 @@
+<img width="1893" height="892" alt="image" src="https://github.com/user-attachments/assets/ddc20c92-9fad-48e1-b283-369c0fc70ddb" />
+
 # TicketGuard
 
 **Verified ownership. Secure transfer. One valid ticket.**
